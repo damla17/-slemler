@@ -1,0 +1,2 @@
+# -slemler
+matematiksel işlemler
